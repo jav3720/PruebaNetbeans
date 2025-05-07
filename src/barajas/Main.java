@@ -64,6 +64,11 @@ public class Main {
         System.out.println("\nCarta extraída: " + baraja.extraerCarta());
         System.out.println("\nCarta extraída: " + baraja.extraerCarta());
         System.out.println("\nCarta extraída: " + baraja.extraerCarta());
-
+        System.out.println("\nCarta extraída: " + baraja.extraerCarta());      
+        System.out.println("\nCarta extraída: " + baraja.extraerCarta());
+                System.out.println("\nCarta extraída: " + baraja.extraerCarta());
+                        System.out.println("\nCarta extraída: " + baraja.extraerCarta());
+                                System.out.println("\nCarta extraída: " + baraja.extraerCarta());
+                                        System.out.println("\nCarta extraída: " + baraja.extraerCarta());
     }
 }
